@@ -1,6 +1,6 @@
 # Spotify_track_dataset
 
-
+The dataset I've choosed here is to analyse is based o Spotify Track list. By using this data, we will be able to analyse different aspects of the track based on how this can be consumed and spilt based on categories.
 
 
 
@@ -9,8 +9,8 @@
 * duration_ms: Duration of the track in milliseconds.
 * explicit: The lyrics or content of a song or a music video contain one or more of the criteria which could be considered offensive or unsuitable for children.
 * year: Release Year of the track.
-* popularity: The higher the value the more popular the song is.
-* danceability: Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable.
+* popularity: How popular the song is on platform fro its release.
+* danceability: This column shows us how danceability has this song. Ranges from 1.0 which is more likely to dance to 0.0 least liely to dance for the song.
 * energy: Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity.
 * key: The key the track is in. Integers map to pitches using standard Pitch Class notation. E.g. 0 = C, 1 = C♯/D♭, 2 = D, and so on. If no key was detected, the value is -1.
 * loudness: The overall loudness of a track in decibels (dB). Loudness values are averaged across the entire track and are useful for comparing relative loudness of tracks. Loudness is the quality of a sound that is the primary psychological correlate of physical strength (amplitude). Values typically range between -60 and 0 db.
